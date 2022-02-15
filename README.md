@@ -4,10 +4,10 @@ pyrabbitmq
 > rabbitmq consumer, publisher
 
 ## `Install`
-` pip install git+https://github.com/zhouxianggen/pyrabbitmq.git`
+` pip install git+https://github.com/happynewday/pyrabbitmq.git`
 
 ## `Upgrade`
-` pip install -U git+https://github.com/zhouxianggen/pyrabbitmq.git`
+` pip install -U git+https://github.com/happynewday/pyrabbitmq.git`
 
 ## `Uninstall`
 ` pip uninstall pyrabbitmq`
